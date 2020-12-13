@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+input {
+  padding: 1rem;
+  width: 17cm;
+}
+body {
+  background-color: aqua;
+  list-style: none;
+}
